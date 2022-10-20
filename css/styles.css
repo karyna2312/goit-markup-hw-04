@@ -281,8 +281,8 @@ margin-bottom: 50px;
 }
 
 .areas-list {
- display: flex; 
- gap: 30px;
+display: flex; 
+gap: 30px;
 }
 
 /* Наша команда */
@@ -460,7 +460,7 @@ padding-bottom: 94px;
     border: none;
 }
 
-.portfolio-button:hover, 
+.portfolio-button:hover,
 .portfolio-button:focus
 {
     background-color: var(--accent-color);
@@ -468,7 +468,8 @@ padding-bottom: 94px;
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 1px 2px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
 }
 
-.portfolio-button-current:hover, :focus {
+.portfolio-button-current:hover, 
+.portfolio-button-current:focus {
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 1px 2px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
 }
 
